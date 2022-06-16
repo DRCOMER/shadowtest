@@ -1,0 +1,11 @@
+{
+  "name": "shadowtest",
+  "version": "1.0.0",
+  "description": "Get perfect shadows every time for non-designer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
